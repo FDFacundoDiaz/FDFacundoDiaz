@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Facundo Diaz" src="https://github.com/FDFacundoDiaz/FDFacundoDiaz/blob/master/frontend.jpg">
+  <img alt="Facundo Diaz" src="https://github.com/FDFacundoDiaz/FDFacundoDiaz/blob/master/frontend.jpg" height='200' width='1300'>
 </p>
 
 <p align="center">
