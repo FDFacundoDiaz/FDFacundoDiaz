@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Facundo Diaz" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/banner.png">
+  <img alt="Facundo Diaz" src="https://github.com/FDFacundoDiaz/FDFacundoDiaz/blob/master/frontend.jpg">
 </p>
 
 <p align="center">
-  <img alt="Facundo Diaz" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
-  <h2>Hey everyone! I'm Sergie Code</h2>
+  <img alt="Facundo Diaz" src="https://github.com/FDFacundoDiaz/FDFacundoDiaz/blob/master/Hand%20Wave.gif" width='40' align="left">
+  <h2>Hola! Mi nombre es Facundo Díaz</h2>
 </p>
 
 <!-- ## 👋 &nbsp;Hey everyone! I'm Sergie Code -->
@@ -13,18 +13,20 @@
 
 💻I'm a software engineer, specialized in frontend development, and also a content creator on technology, programming, and artificial intelligence.
 
-👨🏼‍💻I work as a TECH LEAD with an excellent team of programmers with whom we develop software for an importante insurance company in the United States.
+👨🏼‍💻Me desempeño como desarrollador Back-End de aplicaciones Web Java y Spring Framework, desde hace más de 2 años.
+Comprometido con la calidad y la eficiencia, mi enfoque se centra en la capacitación constante para la creación de sistemas robustos, seguros y escalables; cumpliendo con los plazos estipulados. 
+Disfruto del trabajo en conjunto y colaborativo.
+Estoy buscando oportunidades para desarrollarme profesionalmente y contribuir con mis habilidades.
 
-🖱️I also teach online courses on my YouTube channel and have participated as an instructor in online programs at UTN (National Technological University) and Digital House (I've been involved in the Certified Tech Developer program, which is an educational initiative co-created by Digital House, Mercado Libre, and Globant to train developers following the highest industry standards)
+📧 ¡No dudes en ponerte en contacto conmigo para cualquier consulta o colaboración! facundo.dz226@gmail.com
+<br>
 
-📧Please feel free to contact me for any inquiries or collaborations! info@sergiecode.com
-
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis tecnológico de GitHub
 
 <p align="center">
-  <a href="https://github.com/sergiecode">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiecode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiecode&layout=compact&langs_count=8&theme=algolia">
+  <a href="https://github.com/FDFacundoDiaz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FDFacundoDiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FDFacundoDiaz&layout=compact&langs_count=8&theme=algolia">
   </a>
 </p>
 
